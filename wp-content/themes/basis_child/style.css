@@ -13,3 +13,32 @@
  */
 
 @import url( '../basis/style.css' );
+
+body {
+  font-family: 'PT Serif', serif;
+}
+
+blockquote cite {
+
+  font-family: 'PT Serif', serif;
+
+}
+
+.cycle-pager span {
+  font-family: 'PT Serif', serif;
+}
+
+button,
+input[type="reset"],
+input[type="submit"],
+input[type="button"],
+.basis-button,
+.slide-button,
+.banner-button{
+	font-family: 'PT Serif', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
